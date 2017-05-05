@@ -51,16 +51,20 @@ Welcome to my portfolio page, my name is Robert Focke and I am a half-South Afri
 ### Work Experience
 
 **SAP SE**
+
 *Machine Learning (Working Student)*
-*January 2017 - *
+*January 2017 - Present*
+
 - SAP Leonardo ML
 - TensorFlow
 - Docker
 - Python
 
 **HomeToGo GmbH**
+
 *System Administrator (Working Student)*
 *February 2016 - July 2016*
+
 - Juniper Switches
 - Raspberry Pis
 - Google Analytics
@@ -69,15 +73,18 @@ Welcome to my portfolio page, my name is Robert Focke and I am a half-South Afri
 ### Education
 
 **Technische Universität Berlin**
+
 *B.Sc. Computer Engineering*
 *2016 - *
 
 **Studienkolleg der Technischen Universität Berlin**
+
 *Propädeutikum: Deutsch als Fremdsprache*
 *DSH 3 (C2)*
 *2015 - 2015*
 
 **Pretoria Boys High School**
+
 *Secondary School*
 *2010 - 2014*
 
