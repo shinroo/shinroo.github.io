@@ -75,7 +75,7 @@ Welcome to my portfolio page, my name is Robert Focke and I am a half-South Afri
 **Technische Universität Berlin**
 
 *B.Sc. Computer Engineering*
-*2016 - *
+*2016 - Present*
 
 **Studienkolleg der Technischen Universität Berlin**
 
