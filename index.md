@@ -1,37 +1,83 @@
-## Welcome to GitHub Pages
+## Portfolio Page: Robert Focke
 
-You can use the [editor on GitHub](https://github.com/shinroo/shinroo.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to my portfolio page, my name is Robert Focke and I am a half-South African, half-German software developer, technology lover and avid traveler.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Important Links
 
-### Markdown
+[linkedin](https://www.linkedin.com/in/robertfocke/)
+[github](https://github.com/shinroo/)
+[gitlab](https://gitlab.com/robert.focke96)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Key skills
 
-```markdown
-Syntax highlighted code block
+#### Programming Languages
+- Python
+- C
+- Java
+- C++
+- SQL
 
-# Header 1
-## Header 2
-### Header 3
+#### Software Principles
+- Microservices architectures
+- Software Architecture
+- Cloud software
+- Distributed computing
 
-- Bulleted
-- List
+#### Languages
+- English (native speaker)
+- Afrikaans (native speaker)
+- German (C2 level)
+- Dutch (A1 level)
 
-1. Numbered
-2. List
+### Personal Projects
 
-**Bold** and _Italic_ and `Code` text
+**UNMAP**
+*A hashtag-search-based content aggregation system for the tourist industry*
+[UNMAP Homepage](https://www.unmap.eu/)
+- Client-Server system
+- Microservices architecture
+- Docker
+- Fluentd
+- Flask
+- AWS
+- Cloud Foundry
 
-[Link](url) and ![Image](src)
-```
+**Friday Software**
+*A cloud based business management suite*
+- Docker
+- AWS
+- Microservices architecture
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Work Experience
 
-### Jekyll Themes
+**SAP SE**
+*Machine Learning (Working Student)*
+*January 2017 - *
+- SAP Leonardo ML
+- TensorFlow
+- Docker
+- Python
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shinroo/shinroo.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**HomeToGo GmbH**
+*System Administrator (Working Student)*
+*February 2016 - July 2016*
+- Juniper Switches
+- Raspberry Pis
+- Google Analytics
+- Bash scripting
 
-### Support or Contact
+### Education
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**Technische Universität Berlin**
+*B.Sc. Computer Engineering*
+*2016 - *
+
+**Studienkolleg der Technischen Universität Berlin**
+*Propädeutikum: Deutsch als Fremdsprache*
+*DSH 3 (C2)*
+*2015 - 2015*
+
+**Pretoria Boys High School**
+*Secondary School*
+*2010 - 2014*
+
