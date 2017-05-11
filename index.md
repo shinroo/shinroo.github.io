@@ -96,16 +96,16 @@ Welcome to my portfolio page, my name is Robert Focke and I am a half-South Afri
 
 *Organised by Google*
 
-Took part in the competition as a team of 4 with 3 other students from the TU Berlin. We took part at the FU Berlin hub and placed number 1059 worldwide. Certificate can be found [here](https://www.slideshare.net/slideshow/embed_code/key/2P986TgUoY3nqD).
+Took part in the competition as a team of 4 with 3 other students from the TU Berlin. The problem to be solved was the optimal distribution of video content across geographically seperate caching locations to minimize the loading time for end users. We took part at the FU Berlin hub and placed number 1059 worldwide. Certificate can be found [here](https://www.slideshare.net/slideshow/embed_code/key/2P986TgUoY3nqD).
 
 **Hashcode 2016**
 
 *Organised by Google*
 
-Took part in the competition as a team of 3 with 2 other students from the TU Berlin. We managed to complete the challenge, but did not place in the global rankings.
+Took part in the competition as a team of 3 with 2 other students from the TU Berlin. The problem to be solved was to optimize the delivery of items from warehouses to users by making use of drones. We managed to complete the challenge, but did not place in the global rankings.
 
 **MAD Challenge 2012**
 
 *Organised by the University of Pretoria in collaboration with Research in Motion*
 
-Took part in the competition as a team of two with a fellow Pretoria Boys High School student. We developed an application to backup and restroe BlackBerry Messenger chats. We placed third in the competition. [Link](https://github.com/shinroo/BackUP) to GitHub repository. 
+Took part in the competition as a team of two with a fellow Pretoria Boys High School student. We developed an application to backup and restore BlackBerry Messenger chats. We placed third in the competition. [Link](https://github.com/shinroo/BackUP) to GitHub repository. 
