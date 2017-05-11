@@ -74,6 +74,8 @@ Welcome to my portfolio page, my name is Robert Focke and I am a half-South Afri
 
 **Technische Universität Berlin**
 
+[Relevant Coursework](https://github.com/shinroo/TUB_Programs)
+
 *B.Sc. Computer Engineering*
 *2016 - Present*
 
