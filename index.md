@@ -48,6 +48,11 @@ Welcome to my portfolio page, my name is Robert Focke and I am a half-South Afri
 - AWS
 - Microservices architecture
 
+**Click Wash**
+*A distributed car washing franchise*
+- Business Management
+- Scheduling
+
 ### Work Experience
 
 **SAP SE**
