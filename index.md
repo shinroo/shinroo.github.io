@@ -56,6 +56,7 @@ Welcome to my portfolio page, my name is Robert Focke and I am a half-South Afri
 ### Work Experience
 
 **SAP SE**
+**Innovation Centre Network**
 
 *Machine Learning (Working Student)*
 *January 2017 - Present*
