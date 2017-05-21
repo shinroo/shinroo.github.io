@@ -41,17 +41,20 @@ Welcome to my portfolio page, my name is Robert Focke and I am a half-South Afri
 - Flask
 - AWS
 - Cloud Foundry
+Partners: Karim Izzuldin, Paul Kim
 
 **Friday Software**
 *A cloud based business management suite*
 - Docker
 - AWS
 - Microservices architecture
+Partner: Tyrone Simmonds
 
 **Click Wash**
 *A distributed car washing franchise*
 - Business Management
 - Scheduling
+Partner: Faisal Ajin
 
 ### Work Experience
 
@@ -59,7 +62,7 @@ Welcome to my portfolio page, my name is Robert Focke and I am a half-South Afri
 
 **Innovation Centre Network**
 
-*Machine Learning (Working Student)*
+*Software Development for Machine Learning (Working Student)*
 *January 2017 - Present*
 
 - SAP Leonardo ML
