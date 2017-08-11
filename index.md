@@ -101,6 +101,14 @@ Technologies:
 - Google Cloud Platform
 - TensorFlow
 
+Major Projects:
+
+- SAP-Google Partnership
+
+![sapgoogle](http://i.imgur.com/6scupyV.png "Techcruch SAP Google Partnership")
+
+[Source](https://techcrunch.com/2017/03/08/google-announces-significant-partnership-with-sap-at-google-cloud-next-conference/)
+
 **[HomeToGo GmbH](https://www.hometogo.com/)**
 
 *System Administrator (Working Student)*
