@@ -2,6 +2,13 @@
 
 Welcome to my portfolio page, my name is Robert Focke and I am a half-South African, half-German software developer, technology lover and avid traveler.
 
+[Legal Appendix](https://github.com/shinroo/shinroo.github.io/blob/master/README.md)
+
+### Personal Information
+
+- Work email: robert.focke@sap.com
+- Personal email: robert.focke@member.fsf.org  
+
 ### Important Links
 
 [linkedin](https://www.linkedin.com/in/robertfocke/)
