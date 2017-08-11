@@ -33,11 +33,19 @@ Welcome to my portfolio page, my name is Robert Focke and I am a half-South Afri
 
 **Friday Software**
 *A cloud based business management suite*
+
+- Flask
+- Apache Webserver
 - Docker
 - AWS OpsWorks
+- Python
+- Boto3 SDK
 - Microservices architecture
 
 Partner: Tyrone Simmonds
+
+![backend](http://i.imgur.com/9sXI5OE.png "Friday Backend")
+![architecture](http://i.imgur.com/mZWICdx.png "Friday Architecture")
 
 **Click Wash**
 *A distributed car washing franchise*
