@@ -69,7 +69,7 @@ Partner: Faisal Ajin
 
 ### Work Experience
 
-**SAP SE**
+**[SAP SE](https://www.sap.com/index.html)**
 
 **Innovation Centre Network**
 
@@ -97,7 +97,7 @@ Technologies:
 - Docker
 - Flask
 
-**HomeToGo GmbH**
+**[HomeToGo GmbH](https://www.hometogo.com/)**
 
 *System Administrator (Working Student)*
 *February 2016 - July 2016*
