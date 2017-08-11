@@ -12,10 +12,10 @@ Welcome to my portfolio page, my name is Robert Focke and I am a half-South Afri
 
 #### Programming Languages
 - Python
-- C
-- Java
 - C++
+- C
 - SQL
+- Java
 
 #### Software Principles
 - Microservices architectures
@@ -31,23 +31,10 @@ Welcome to my portfolio page, my name is Robert Focke and I am a half-South Afri
 
 ### Personal Projects
 
-**UNMAP**
-*A hashtag-search-based content aggregation system for the tourist industry*
-[UNMAP Homepage](https://www.unmap.eu/)
-- Client-Server system
-- Microservices architecture
-- Docker
-- Fluentd
-- Flask
-- AWS
-- Cloud Foundry
-
-Partners: Karim Izzuldin, Paul Kim
-
 **Friday Software**
 *A cloud based business management suite*
 - Docker
-- AWS
+- AWS OpsWorks
 - Microservices architecture
 
 Partner: Tyrone Simmonds
@@ -59,6 +46,12 @@ Partner: Tyrone Simmonds
 
 Partner: Faisal Ajin
 
+**EasyML**
+*A machine learning data preparation app*
+- Classification of ML datasets
+- Micropayments
+- Django
+
 ### Work Experience
 
 **SAP SE**
@@ -68,15 +61,33 @@ Partner: Faisal Ajin
 *Software Development for Machine Learning (Working Student)*
 *January 2017 - Present*
 
-- SAP Leonardo ML
-- TensorFlow
-- Docker
+Worked on the SAP Leonardo ML Platform team under Dr. Urko Sanchez.
+Development and DevOps tasks related to the the functionality and deployment of the Leonardo ML Platform.
+
+Languages Used:
+
 - Python
+- Java
+- C++
+- Groovy
+
+Technologies:
+
+- Cloud Foundry
+- Kubernetes
+- Jenkins
+- Nexus
+- XMake
+- Bazel
+- Docker
+- Flask
 
 **HomeToGo GmbH**
 
 *System Administrator (Working Student)*
 *February 2016 - July 2016*
+
+System administration and IT support tasks in the Berlin HQ of HomeToGo GmbH.
 
 - Juniper Switches
 - Raspberry Pis
