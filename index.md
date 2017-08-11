@@ -85,6 +85,7 @@ Languages Used:
 - Java
 - C++
 - Groovy
+- Bash
 
 Technologies:
 
@@ -96,6 +97,9 @@ Technologies:
 - Bazel
 - Docker
 - Flask
+- ABBYY FR Engine
+- Google Cloud Platform
+- TensorFlow
 
 **[HomeToGo GmbH](https://www.hometogo.com/)**
 
