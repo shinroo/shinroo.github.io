@@ -41,6 +41,10 @@ Welcome to my portfolio page, my name is Robert Focke and I am a half-South Afri
 **Friday Software**
 *A cloud based business management suite*
 
+A web-app for business operations such as inventory management, sales and purchasing.
+
+*Status: In Development*
+
 - Flask
 - Apache Webserver
 - Docker
@@ -56,6 +60,11 @@ Partner: Tyrone Simmonds
 
 **Click Wash**
 *A distributed car washing franchise*
+
+A website for car washing franchising in Berlin allowing franchisees to register and receive work and customers to register for cleaning services.
+
+*Status: Planning Phase*
+
 - Business Management
 - Scheduling
 
@@ -63,9 +72,27 @@ Partner: Faisal Ajin
 
 **EasyML**
 *A machine learning data preparation app*
+
+An app allowing users to classify machine learning data sets for small monetary rewards.
+
+*Status: On Hold until December 2017*
+
 - Classification of ML datasets
 - Micropayments
 - Django
+
+Partner: Jonathan Sauder
+
+**BlockIT**
+*Project contents protected under NDA*
+
+*Status: In Development*
+
+- Blockchain
+- Security
+- Distributed Systems
+
+Parters: Sheri Valente, Kobus Kapp, Fanie de Villiers and Armand Ventura
 
 ### Work Experience
 
