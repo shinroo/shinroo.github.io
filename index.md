@@ -92,7 +92,7 @@ Partner: Jonathan Sauder
 - Security
 - Distributed Systems
 
-Parters: Sheri Valente, Kobus Kapp, Fanie de Villiers and Armand Ventura
+Parters: [Sheri Valente](https://www.linkedin.com/in/sheri-valente-41268629/), [Kobus Kapp](https://www.linkedin.com/in/kobus-kapp-0136592/), [Fanie de Villiers](https://www.linkedin.com/in/fanie-de-villiers-a8a41457/) and Armand Ventura
 
 ### Work Experience
 
@@ -103,7 +103,7 @@ Parters: Sheri Valente, Kobus Kapp, Fanie de Villiers and Armand Ventura
 *Knowledge Management for Machine Learning (Working Student)*
 *January 2018 - Present*
 
-Worked alongside Knowledge Manager Hannah Vogt to create content for consumers and developers working on
+Worked alongside Knowledge Manager [Hannah Vogt](https://www.linkedin.com/in/hannahvogt/) to create content for consumers and developers working on
 the SAP Leonardo ML Platform, relating to technical enablement, product documentation and general product
 communication.
 
@@ -118,7 +118,7 @@ Topic-areas:
 *Software Development for Machine Learning (Working Student)*
 *January 2017 - January 2018*
 
-Worked on the SAP Leonardo ML Platform team under Dr. Urko Sanchez.
+Worked on the SAP Leonardo ML Platform team under [Dr. Urko Sanchez](https://www.linkedin.com/in/urkosanchez/).
 Development and DevOps tasks related to the the functionality and deployment of the Leonardo ML Platform.
 
 Languages Used:
@@ -157,6 +157,7 @@ Major Projects:
 *February 2016 - July 2016*
 
 System administration and IT support tasks in the Berlin HQ of HomeToGo GmbH.
+Working under supervision of [Stevan Lutz](https://www.linkedin.com/in/stevanlutz/).
 
 - Juniper Switches
 - Raspberry Pis
