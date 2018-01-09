@@ -107,6 +107,14 @@ Worked alongside Knowledge Manager Hannah Vogt to create content for consumers a
 the SAP Leonardo ML Platform, relating to technical enablement, product documentation and general product
 communication.
 
+Collaboration with development, UX design, agile product management, business development and customers.
+
+Topic-areas:
+
+- Machine Learning
+- Cloud Computing
+- Digital Transformation
+
 *Software Development for Machine Learning (Working Student)*
 *January 2017 - January 2018*
 
@@ -145,7 +153,7 @@ Major Projects:
 
 **[HomeToGo GmbH](https://www.hometogo.com/)**
 
-*System Administrator (Working Student)*
+*System Administrator (Working Student)*<br>
 *February 2016 - July 2016*
 
 System administration and IT support tasks in the Berlin HQ of HomeToGo GmbH.
