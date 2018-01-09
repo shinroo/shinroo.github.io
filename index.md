@@ -100,8 +100,15 @@ Parters: Sheri Valente, Kobus Kapp, Fanie de Villiers and Armand Ventura
 
 **Innovation Centre Network**
 
+*Knowledge Management for Machine Learning (Working Student)*
+*January 2018 - Present*
+
+Worked alongside Knowledge Manager Hannah Vogt to create content for consumers and developers working on
+the SAP Leonardo ML Platform, relating to technical enablement, product documentation and general product
+communication.
+
 *Software Development for Machine Learning (Working Student)*
-*January 2017 - Present*
+*January 2017 - January 2018*
 
 Worked on the SAP Leonardo ML Platform team under Dr. Urko Sanchez.
 Development and DevOps tasks related to the the functionality and deployment of the Leonardo ML Platform.
