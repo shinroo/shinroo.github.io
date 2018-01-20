@@ -175,15 +175,21 @@ Working under supervision of [Stevan Lutz](https://www.linkedin.com/in/stevanlut
 
 **Technische Universität Berlin**
 
+![tuberlin](http://www.existstartupgermany.com/wp-content/uploads/2016/10/TU_Logo.png)
+
 *B.A. Linguistics and Engineering*
 *2018 - Present*
 
 **Phillip-Universität Marburg**
 
+![um](http://membs.org/membs/uploads/news_images/marbur.jpg)
+
 *Introductory Coursework in B.A. Linguistics*
 *2018 - 2018*
 
 **Technische Universität Berlin**
+
+![tuberlin](http://www.existstartupgermany.com/wp-content/uploads/2016/10/TU_Logo.png)
 
 [Relevant Coursework](https://github.com/shinroo/TUB_Programs)
 
@@ -192,11 +198,15 @@ Working under supervision of [Stevan Lutz](https://www.linkedin.com/in/stevanlut
 
 **Studienkolleg der Technischen Universität Berlin**
 
+![tuberlin](http://www.existstartupgermany.com/wp-content/uploads/2016/10/TU_Logo.png)
+
 *Propädeutikum: Deutsch als Fremdsprache*
 *DSH 3 (C2)*
 *2015 - 2015*
 
 **Pretoria Boys High School**
+
+![pbhs](http://colinphysio.co.za/wp-content/uploads/2016/11/BOYSHIGH.png)
 
 *Secondary School*
 *2010 - 2014*
