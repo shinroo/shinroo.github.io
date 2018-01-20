@@ -2,6 +2,8 @@
 
 Welcome to my portfolio page, my name is Robert Focke and I am a half-South African, half-German software developer, technology lover and avid traveler.
 
+I have a passion for linguistics and languages and am currently pursuing a degree in the combined fields of Linguistics and Engineering.
+
 [Legal Appendix](https://github.com/shinroo/shinroo.github.io/blob/master/README.md)
 
 ### Personal Information
@@ -29,6 +31,11 @@ Welcome to my portfolio page, my name is Robert Focke and I am a half-South Afri
 - Software Architecture
 - Cloud software
 - Distributed computing
+
+#### Linguistics
+- Technical Writing
+- Technical Enablement
+- Content Creation
 
 #### Languages
 - English (native speaker)
@@ -168,10 +175,20 @@ Working under supervision of [Stevan Lutz](https://www.linkedin.com/in/stevanlut
 
 **Technische Universität Berlin**
 
+*B.A. Linguistics and Engineering*
+*2018 - Present*
+
+**Phillip-Universität Marburg**
+
+*Introductory Coursework in B.A. Linguistics*
+*2018 - 2018*
+
+**Technische Universität Berlin**
+
 [Relevant Coursework](https://github.com/shinroo/TUB_Programs)
 
-*B.Sc. Computer Engineering*
-*2016 - Present*
+*Coursework in B.Sc. Computer Engineering*
+*2016 - 2018*
 
 **Studienkolleg der Technischen Universität Berlin**
 
