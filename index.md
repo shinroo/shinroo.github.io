@@ -105,6 +105,8 @@ Parters: [Sheri Valente](https://www.linkedin.com/in/sheri-valente-41268629/), [
 
 **[SAP SE](https://www.sap.com/index.html)**
 
+![sap](http://www.trempplin.com/images/sap.png)
+
 **Innovation Centre Network**
 
 *Knowledge Management for Machine Learning (Working Student)*
@@ -160,6 +162,8 @@ Major Projects:
 
 **[HomeToGo GmbH](https://www.hometogo.com/)**
 
+![hometogo](https://praktikum-info-production.imgix.net/companies/30421/original1487353781.png?w=200&h=200&fit=fillmax&bg=FFFFFF)
+
 *System Administrator (Working Student)*<br>
 *February 2016 - July 2016*
 
@@ -173,42 +177,38 @@ Working under supervision of [Stevan Lutz](https://www.linkedin.com/in/stevanlut
 
 ### Education
 
-**Technische Universität Berlin**
-
-![tuberlin](https://qph.ec.quoracdn.net/main-thumb-t-508871-200-ulyyljbwabmvvduezboznxibhmcollpw.jpeg)
-
-*B.A. Linguistics and Engineering*
-*2018 - Present*
-
 **Phillip-Universität Marburg**
 
 ![um](http://www.kunsthistoriker.org/typo3temp/pics/thumb_og_fb_3914869000.png)
 
-*Introductory Coursework in B.A. Linguistics*
+*Introductory Coursework in B.A. Linguistics*<br>
 *2018 - 2018*
 
 **Technische Universität Berlin**
 
 ![tuberlin](https://qph.ec.quoracdn.net/main-thumb-t-508871-200-ulyyljbwabmvvduezboznxibhmcollpw.jpeg)
 
-[Relevant Coursework](https://github.com/shinroo/TUB_Programs)
+*B.A. Linguistics and Engineering*<br>
+*2018 - Present*
 
-*Coursework in B.Sc. Computer Engineering*
+*Coursework in B.Sc. Computer Engineering*<br>
 *2016 - 2018*
+
+[Relevant Coursework](https://github.com/shinroo/TUB_Programs)
 
 **Studienkolleg der Technischen Universität Berlin**
 
 ![tuberlin](https://qph.ec.quoracdn.net/main-thumb-t-508871-200-ulyyljbwabmvvduezboznxibhmcollpw.jpeg)
 
-*Propädeutikum: Deutsch als Fremdsprache*
-*DSH 3 (C2)*
+*Propädeutikum: Deutsch als Fremdsprache*<br>
+*DSH 3 (C2)*<br>
 *2015 - 2015*
 
 **Pretoria Boys High School**
 
 ![pbhs](http://ysn.co.za/sites/default/files/crests/Pretoria.jpg)
 
-*Secondary School*
+*Secondary School*<br>
 *2010 - 2014*
 
 ### Coding Competitions
