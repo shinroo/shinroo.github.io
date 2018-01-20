@@ -175,21 +175,21 @@ Working under supervision of [Stevan Lutz](https://www.linkedin.com/in/stevanlut
 
 **Technische Universität Berlin**
 
-![tuberlin](http://www.existstartupgermany.com/wp-content/uploads/2016/10/TU_Logo.png)
+![tuberlin](https://qph.ec.quoracdn.net/main-thumb-t-508871-200-ulyyljbwabmvvduezboznxibhmcollpw.jpeg)
 
 *B.A. Linguistics and Engineering*
 *2018 - Present*
 
 **Phillip-Universität Marburg**
 
-![um](http://membs.org/membs/uploads/news_images/marbur.jpg)
+![um](http://www.kunsthistoriker.org/typo3temp/pics/thumb_og_fb_3914869000.png)
 
 *Introductory Coursework in B.A. Linguistics*
 *2018 - 2018*
 
 **Technische Universität Berlin**
 
-![tuberlin](http://www.existstartupgermany.com/wp-content/uploads/2016/10/TU_Logo.png)
+![tuberlin](https://qph.ec.quoracdn.net/main-thumb-t-508871-200-ulyyljbwabmvvduezboznxibhmcollpw.jpeg)
 
 [Relevant Coursework](https://github.com/shinroo/TUB_Programs)
 
@@ -198,7 +198,7 @@ Working under supervision of [Stevan Lutz](https://www.linkedin.com/in/stevanlut
 
 **Studienkolleg der Technischen Universität Berlin**
 
-![tuberlin](http://www.existstartupgermany.com/wp-content/uploads/2016/10/TU_Logo.png)
+![tuberlin](https://qph.ec.quoracdn.net/main-thumb-t-508871-200-ulyyljbwabmvvduezboznxibhmcollpw.jpeg)
 
 *Propädeutikum: Deutsch als Fremdsprache*
 *DSH 3 (C2)*
@@ -206,7 +206,7 @@ Working under supervision of [Stevan Lutz](https://www.linkedin.com/in/stevanlut
 
 **Pretoria Boys High School**
 
-![pbhs](http://colinphysio.co.za/wp-content/uploads/2016/11/BOYSHIGH.png)
+![pbhs](http://ysn.co.za/sites/default/files/crests/Pretoria.jpg)
 
 *Secondary School*
 *2010 - 2014*
