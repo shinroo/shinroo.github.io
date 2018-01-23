@@ -156,9 +156,7 @@ Major Projects:
 
 - SAP-Google Partnership
 
-![sapgoogle](http://i.imgur.com/6scupyV.png "Techcrunch SAP Google Partnership")
-
-[Source](https://techcrunch.com/2017/03/08/google-announces-significant-partnership-with-sap-at-google-cloud-next-conference/)
+[![sapgoogle](http://i.imgur.com/6scupyV.png "Techcrunch SAP Google Partnership")](https://techcrunch.com/2017/03/08/google-announces-significant-partnership-with-sap-at-google-cloud-next-conference/)
 
 **[HomeToGo GmbH](https://www.hometogo.com/)**
 
@@ -213,20 +211,26 @@ Working under supervision of [Stevan Lutz](https://www.linkedin.com/in/stevanlut
 
 ### Coding Competitions
 
-**Hashcode 2017**
+**[Hashcode 2017](https://hashcode.withgoogle.com/hashcode_2017.html)**
 
 *Organised by Google*
+
+Team: HashDoge
 
 Took part in the competition as a team of 4 with 3 other students from the TU Berlin. The problem to be solved was the optimal distribution of video content across geographically seperate caching locations to minimize the loading time for end users. We took part at the FU Berlin hub and placed number 1059 worldwide. Certificate can be found [here](https://www.slideshare.net/slideshow/embed_code/key/2P986TgUoY3nqD).
 
-**Hashcode 2016**
+**[Hashcode 2016](https://hashcode.withgoogle.com/hashcode_2016.html)**
 
 *Organised by Google*
+
+Team: HashDoge
 
 Took part in the competition as a team of 3 with 2 other students from the TU Berlin. The problem to be solved was to optimize the delivery of items from warehouses to users by making use of drones. We managed to complete the challenge, but did not place in the global rankings.
 
 **MAD Challenge 2012**
 
 *Organised by the University of Pretoria in collaboration with Research in Motion*
+
+ [![mad2012](https://i.imgur.com/QYUYfAe.png)](http://ventureburn.com/2012/12/young-entrepreneurial-talent-emerges-from-blackberry-competition/)
 
 Took part in the competition as a team of two with a fellow Pretoria Boys High School student. We developed an application to backup and restore BlackBerry Messenger chats. We placed third in the competition. [Link](https://github.com/shinroo/BackUP) to GitHub repository. 
