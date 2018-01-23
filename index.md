@@ -236,25 +236,9 @@ Took part in the competition as a team of 3 with 2 other students from the TU Be
 Took part in the competition as a team of two with a fellow Pretoria Boys High School student. We developed an application to backup and restore BlackBerry Messenger chats. We placed third in the competition. [Link](https://github.com/shinroo/BackUP) to GitHub repository.
 
 ### Computer Engineering Coursework Coursework
-**Technische Universität Berlin, 2016 - 2018**<br>
+**Technische Universität Berlin, 2016 - 2018**
 
-**Algorithmen und Datenstrukturen**<br>
-**Algorithms and Data Structures**
-
-*Summer Semester 2016*<br>
-Computer Science Track<br>
-6 ECTS Points
-
-[Coursework](https://github.com/shinroo/TUB_Programs/tree/master/AlgoDat_ss_16)
-
-**Elektrische Netzwerke**<br>
-**Electrical Networks**
-
-*Summer Semester 2016*<br>
-Electrical Engineering Track<br>
-6 ECTS Points
-
-[Coursework](https://github.com/shinroo/TUB_Programs/tree/master/ElNet_ss_16)<br>
+#### Winter Semester 2015/2016
 
 **Einführung in die Programmierung**<br>
 **Introduction to Programming**
@@ -263,6 +247,8 @@ Electrical Engineering Track<br>
 Computer Science Track<br>
 6 ECTS Points
 
+[Coursework](https://github.com/shinroo/TUB_Programs/tree/master/IntroProg_ws_15/introprog-ws1516)
+
 **Grundlagen der Elektrotechnik**<br>
 **Fundamentals of Electrical Engineering**
 
@@ -270,16 +256,7 @@ Computer Science Track<br>
 Electrical Engineering Track<br>
 9 ECTS Points
 
-[Coursework](https://github.com/shinroo/TUB_Programs/tree/master/IntroProg_ws_15/introprog-ws1516)
-
-**Rechnernetze und Verteilte Systeme**<br>
-**Computer Networks and Distributed Systems**
-
-*Winter Semester 2016/2017*<br>
-Computer Engineering Track<br>
-Leistungsnachweis
-
-[Coursework](https://github.com/shinroo/TUB_Programs/tree/master/RNVS_ws_16)
+Coursework submitted in written form.
 
 **Rechnerorganisation Praktikum**<br>
 **Computer Architecture Practical**
@@ -299,14 +276,45 @@ Computer Engineering Track<br>
 
 [Coursework](https://github.com/shinroo/TUB_Programs/tree/master/ROrg_ws_15)
 
-**Fundamentalen der Robotik**<br>
-**Fundamentals of Robotics**
+#### Summer Semester 2016
 
-*Summer Semester 2017*<br>
-Computer Science Track (Elective)<br>
+**Algorithmen und Datenstrukturen**<br>
+**Algorithms and Data Structures**
+
+*Summer Semester 2016*<br>
+Computer Science Track<br>
 6 ECTS Points
 
-[Coursework](https://github.com/shinroo/TUB_Programs/tree/master/Robotics_ss_17)
+[Coursework](https://github.com/shinroo/TUB_Programs/tree/master/AlgoDat_ss_16)
+
+**Elektrische Netzwerke**<br>
+**Electrical Networks**
+
+*Summer Semester 2016*<br>
+Electrical Engineering Track<br>
+6 ECTS Points
+
+[Coursework](https://github.com/shinroo/TUB_Programs/tree/master/ElNet_ss_16)
+
+**Systemprogrammierung**<br>
+**Systems Programming**
+
+*Summer Semester 2016*<br>
+Computer Engineering Track<br>
+6 ECTS Points
+
+[Coursework](https://github.com/shinroo/TUB_Programs/tree/master/SysProg_ss_16)
+
+#### Winter Semester 2016/2017
+
+**Rechnernetze und Verteilte Systeme**<br>
+**Computer Networks and Distributed Systems**
+
+*Winter Semester 2016/2017*<br>
+Computer Engineering Track<br>
+Leistungsnachweis
+
+[Coursework](https://github.com/shinroo/TUB_Programs/tree/master/RNVS_ws_16)
 
 **Softwaretechnik und Programmierpardigmen**<br>
 **Software Engineering and Programming Paradigms**
@@ -317,11 +325,13 @@ Computer Science Track<br>
 
 [Coursework](https://github.com/shinroo/TUB_Programs/tree/master/SWTPP_ws_16)
 
-**Systemprogrammierung**<br>
-**Systems Programming**
+#### Summer Semester 2017
 
-*Summer Semester 2016*<br>
-Computer Engineering Track<br>
+**Fundamentalen der Robotik**<br>
+**Fundamentals of Robotics**
+
+*Summer Semester 2017*<br>
+Computer Science Track (Elective)<br>
 6 ECTS Points
 
-[Coursework](https://github.com/shinroo/TUB_Programs/tree/master/SysProg_ss_16)
+[Coursework](https://github.com/shinroo/TUB_Programs/tree/master/Robotics_ss_17)
