@@ -17,6 +17,37 @@ I have a passion for linguistics and languages and am currently pursuing a degre
 [![GitHub](https://coderesources.org/wp-content/uploads/2017/12/githublogo-150x150.png)](https://github.com/shinroo/)&nbsp;
 [![GitLab](https://mlohr.com/wp-content/uploads/2016/08/gitlab-150x150.png)](https://gitlab.com/robert.focke96)
 
+### Index
+
+1. Key Skills<br>
+&nbsp;&nbsp;1.1 Programming Languages<br>
+&nbsp;&nbsp;1.2 Software Principles<br>
+&nbsp;&nbsp;1.3 Linguistics<br>
+&nbsp;&nbsp;1.4 Languages<br>
+2. Personal Projects<br>
+&nbsp;&nbsp;2.1 Friday Software<br>
+&nbsp;&nbsp;2.2 Click Wash<br>
+&nbsp;&nbsp;2.3 EasyML<br>
+&nbsp;&nbsp;2.4 BlockIT<br>
+3. Work Experience<br>
+&nbsp;&nbsp;3.1 Knowledge Manager at SAP<br>
+&nbsp;&nbsp;3.2 Software Developer at SAP<br>
+&nbsp;&nbsp;3.3 System Administrator at HomeToGo<br>
+4. Education<br>
+&nbsp;&nbsp;4.1 Phillips Universität Marburg<br>
+&nbsp;&nbsp;4.2 Technische Universität Berlin<br>
+&nbsp;&nbsp;4.3 Studienkolleg der TU Berlin<br>
+&nbsp;&nbsp;4.4 Pretoria Boys High School<br>
+5. Coding Competitions<br>
+&nbsp;&nbsp;5.1 HashCode 2017<br>
+&nbsp;&nbsp;5.2 HashCode 2016<br>
+&nbsp;&nbsp;5.3 MAD Challenge 2012<br>
+6. Computer Engineering Coursework<br>
+&nbsp;&nbsp;6.1 Wintersemester 2015/2016<br>
+&nbsp;&nbsp;6.2 Summersemester 2016<br>
+&nbsp;&nbsp;6.3 Wintersemester 2016/2017<br>
+&nbsp;&nbsp;6.4 Summersemester 2017
+
 ### Key skills
 
 #### Programming Languages
