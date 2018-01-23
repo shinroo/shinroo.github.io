@@ -235,21 +235,23 @@ Took part in the competition as a team of 3 with 2 other students from the TU Be
 
 Took part in the competition as a team of two with a fellow Pretoria Boys High School student. We developed an application to backup and restore BlackBerry Messenger chats. We placed third in the competition. [Link](https://github.com/shinroo/BackUP) to GitHub repository.
 
-### Coding Coursework
+### Computer Engineering Coursework Coursework
 **Technische Universität Berlin, 2016 - 2018**<br>
 
 **Algorithmen und Datenstrukturen**<br>
 **Algorithms and Data Structures**
 
 *Summer Semester 2016*<br>
+Computer Science Track<br>
 6 ECTS Points
 
 [Coursework](https://github.com/shinroo/TUB_Programs/tree/master/AlgoDat_ss_16)
 
 **Elektrische Netzwerke**<br>
-**Electrical Networks**<br>
+**Electrical Networks**
 
 *Summer Semester 2016*<br>
+Electrical Engineering Track<br>
 6 ECTS Points
 
 [Coursework](https://github.com/shinroo/TUB_Programs/tree/master/ElNet_ss_16)<br>
@@ -258,12 +260,14 @@ Took part in the competition as a team of two with a fellow Pretoria Boys High S
 **Introduction to Programming**
 
 *Winter Semester 2015/2016*<br>
+Computer Science Track<br>
 6 ECTS Points
 
 **Grundlagen der Elektrotechnik**<br>
 **Fundamentals of Electrical Engineering**
 
 *Winter Semester 2015/2016*<br>
+Electrical Engineering Track<br>
 9 ECTS Points
 
 [Coursework](https://github.com/shinroo/TUB_Programs/tree/master/IntroProg_ws_15/introprog-ws1516)
@@ -272,6 +276,7 @@ Took part in the competition as a team of two with a fellow Pretoria Boys High S
 **Computer Networks and Distributed Systems**
 
 *Winter Semester 2016/2017*<br>
+Computer Engineering Track<br>
 Leistungsnachweis
 
 [Coursework](https://github.com/shinroo/TUB_Programs/tree/master/RNVS_ws_16)
@@ -280,6 +285,7 @@ Leistungsnachweis
 **Computer Architecture Practical**
 
 *Winter Semester 2015/2016*<br>
+Computer Engineering Track<br>
 3 ECTS Points
 
 [Coursework](https://github.com/shinroo/TUB_Programs/tree/master/ROrgPr_ws_15)
@@ -288,6 +294,7 @@ Leistungsnachweis
 **Computer Architecture**
 
 *Winter Semester 2015/2016*<br>
+Computer Engineering Track<br>
 6 ECTS Points
 
 [Coursework](https://github.com/shinroo/TUB_Programs/tree/master/ROrg_ws_15)
@@ -296,6 +303,7 @@ Leistungsnachweis
 **Fundamentals of Robotics**
 
 *Summer Semester 2017*<br>
+Computer Science Track (Elective)<br>
 6 ECTS Points
 
 [Coursework](https://github.com/shinroo/TUB_Programs/tree/master/Robotics_ss_17)
@@ -304,6 +312,7 @@ Leistungsnachweis
 **Software Engineering and Programming Paradigms**
 
 *Winter Semester 2016/2017*<br>
+Computer Science Track<br>
 6 ECTS Points
 
 [Coursework](https://github.com/shinroo/TUB_Programs/tree/master/SWTPP_ws_16)
@@ -312,6 +321,7 @@ Leistungsnachweis
 **Systems Programming**
 
 *Summer Semester 2016*<br>
+Computer Engineering Track<br>
 6 ECTS Points
 
 [Coursework](https://github.com/shinroo/TUB_Programs/tree/master/SysProg_ss_16)
