@@ -235,7 +235,7 @@ Took part in the competition as a team of 3 with 2 other students from the TU Be
 
 Took part in the competition as a team of two with a fellow Pretoria Boys High School student. We developed an application to backup and restore BlackBerry Messenger chats. We placed third in the competition. [Link](https://github.com/shinroo/BackUP) to GitHub repository.
 
-### Computer Engineering Coursework Coursework
+### Computer Engineering Coursework
 **Technische Universität Berlin, 2016 - 2018**
 
 #### Winter Semester 2015/2016
@@ -243,36 +243,68 @@ Took part in the competition as a team of two with a fellow Pretoria Boys High S
 **Einführung in die Programmierung**<br>
 **Introduction to Programming**
 
+[Professor Anja Feldmann](https://en.wikipedia.org/wiki/Anja_Feldmann)
+
 *Winter Semester 2015/2016*<br>
 Computer Science Track<br>
 6 ECTS Points
+
+Key Topics:
+- C Programming
+- Sorting Algorithms
+- Time Complexity Analysis, Termination of Algorithms
+- Dynamic Data Structures
+- Algorithms related to Dynamic Data Structures
+- Divide and Rule
+- Error Handling
+- Analysis of Correctness of Algorithms
 
 [Coursework](https://github.com/shinroo/TUB_Programs/tree/master/IntroProg_ws_15/introprog-ws1516)
 
 **Grundlagen der Elektrotechnik**<br>
 **Fundamentals of Electrical Engineering**
 
+[Professor Stephan Völker](https://www.eecs.tu-berlin.de/menue/einrichtungen/professuren/professorinnen/voelker)
+
 *Winter Semester 2015/2016*<br>
 Electrical Engineering Track<br>
 9 ECTS Points
 
-Coursework submitted in written form.
+Key Topics:
+- Electromagnetism
+- Kirchhoff's Laws
+- Faraday's Laws
+
+Coursework submitted in written form. [Course Summary](https://www.studocu.com/en/document/technische-universitaet-berlin/grundlagen-der-elektrotechnik/summaries/zusammenfassung-spicker-get-seite-1-6/439894/view?auth=0&auth_prem=0&prem_doc=0&new_title=0&has_flashcards=1)
 
 **Rechnerorganisation Praktikum**<br>
 **Computer Architecture Practical**
 
+[Professor Ben Juurlink](https://www.hipeac.net/~bjuurlink/)
+
 *Winter Semester 2015/2016*<br>
 Computer Engineering Track<br>
 3 ECTS Points
+
+Key Topics:
+- VHDL Development
+- MIPS Processor Implementation
 
 [Coursework](https://github.com/shinroo/TUB_Programs/tree/master/ROrgPr_ws_15)
 
 **Rechnerorganistaion**<br>
 **Computer Architecture**
 
+[Professor Ben Juurlink](https://www.hipeac.net/~bjuurlink/)
+
 *Winter Semester 2015/2016*<br>
 Computer Engineering Track<br>
 6 ECTS Points
+
+Key Topics:
+- Processor Design
+- Assembly Languages
+- Data Representation Systems
 
 [Coursework](https://github.com/shinroo/TUB_Programs/tree/master/ROrg_ws_15)
 
@@ -281,27 +313,56 @@ Computer Engineering Track<br>
 **Algorithmen und Datenstrukturen**<br>
 **Algorithms and Data Structures**
 
+[Professor Oliver Brock](https://de.wikipedia.org/wiki/Oliver_Brock)
+
 *Summer Semester 2016*<br>
 Computer Science Track<br>
 6 ECTS Points
+
+Key Topics:
+- Java Programming
+- Data Structures
+- Algorithms relating to Data Structures
 
 [Coursework](https://github.com/shinroo/TUB_Programs/tree/master/AlgoDat_ss_16)
 
 **Elektrische Netzwerke**<br>
 **Electrical Networks**
 
+[Professor Kai Strunz](http://sites.ieee.org/isgt-europe-2017/kai-strunz/)
+
 *Summer Semester 2016*<br>
 Electrical Engineering Track<br>
 6 ECTS Points
+
+Key Topics:
+- Electrical Signals
+- System Theory
+- Transient State Analysis
+- Resonance
+- Two-Port Networks
+- Bode Plots
 
 [Coursework](https://github.com/shinroo/TUB_Programs/tree/master/ElNet_ss_16)
 
 **Systemprogrammierung**<br>
 **Systems Programming**
 
+[Professor Odej Kao](http://www.tagesspiegel.de/themen/digital-infrastructure/prof-dr-odej-kao-von-clouds-schnellen-rechnern-und-flexiblen-netzen/12530564.html)
+
 *Summer Semester 2016*<br>
 Computer Engineering Track<br>
 6 ECTS Points
+
+Key Topics:
+- Systems Programming
+- Memory Management
+- Scheduling
+- Threading
+- Resource Management
+- Deadlocks
+- Banker Algorithm
+- Caching
 
 [Coursework](https://github.com/shinroo/TUB_Programs/tree/master/SysProg_ss_16)
 
@@ -309,6 +370,8 @@ Computer Engineering Track<br>
 
 **Rechnernetze und Verteilte Systeme**<br>
 **Computer Networks and Distributed Systems**
+
+[Professor Adam Wolisz](https://www.bloomberg.com/research/stocks/private/person.asp?personId=34992695&privcapId=29149305&previousCapId=121545&previousTitle=Engility%20LLC)
 
 *Winter Semester 2016/2017*<br>
 Computer Engineering Track<br>
@@ -318,6 +381,8 @@ Leistungsnachweis
 
 **Softwaretechnik und Programmierpardigmen**<br>
 **Software Engineering and Programming Paradigms**
+
+[Professor Sabine Glesner](http://www.tu-berlin.de/?id=glesner)
 
 *Winter Semester 2016/2017*<br>
 Computer Science Track<br>
@@ -329,6 +394,8 @@ Computer Science Track<br>
 
 **Fundamentalen der Robotik**<br>
 **Fundamentals of Robotics**
+
+[Professor Oliver Brock](https://de.wikipedia.org/wiki/Oliver_Brock)
 
 *Summer Semester 2017*<br>
 Computer Science Track (Elective)<br>
