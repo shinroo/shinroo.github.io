@@ -377,6 +377,16 @@ Key Topics:
 Computer Engineering Track<br>
 Leistungsnachweis
 
+Key Topics:
+- Interprocess Communication
+- Protocols
+- Services
+- Middleware
+- Transport Infrastructure and Interfaces
+- Internet Protocol Stack
+- Networks
+- Network Security
+
 [Coursework](https://github.com/shinroo/TUB_Programs/tree/master/RNVS_ws_16)
 
 **Softwaretechnik und Programmierpardigmen**<br>
@@ -387,6 +397,14 @@ Leistungsnachweis
 *Winter Semester 2016/2017*<br>
 Computer Science Track<br>
 6 ECTS Points
+
+Key Topics:
+- Development Strategies
+- Project Management
+- System Design
+- Object Oriented Programming
+- Functional Programming
+- Quality Assurance
 
 [Coursework](https://github.com/shinroo/TUB_Programs/tree/master/SWTPP_ws_16)
 
@@ -400,5 +418,15 @@ Computer Science Track<br>
 *Summer Semester 2017*<br>
 Computer Science Track (Elective)<br>
 6 ECTS Points
+
+Key Topics:
+- Sensors
+- Actuators
+- Realtime Control Systems
+- Kinematics
+- Representation of the Environment
+- Route Planning
+- Localisation
+- Decision Making inspite of Uncertainty
 
 [Coursework](https://github.com/shinroo/TUB_Programs/tree/master/Robotics_ss_17)
