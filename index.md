@@ -13,8 +13,8 @@ I have a passion for linguistics and languages and am currently pursuing a degre
 
 ### Important Links
 
-[![Linkedin](https://myeyeque.files.wordpress.com/2017/03/linkedin-logo.png?w=150)](https://www.linkedin.com/in/robertfocke/)&nbsp;
-[![GitHub](https://damienfremont.files.wordpress.com/2017/06/github-logo.png?w=700)](https://github.com/shinroo/)&nbsp;
+[![Linkedin]http://cuttlefishmarketing.com/wp-content/uploads/2016/12/linkedin-logo-png-2046-150x150.png)](https://www.linkedin.com/in/robertfocke/)&nbsp;
+[![GitHub](https://coderesources.org/wp-content/uploads/2017/12/githublogo-150x150.png)](https://github.com/shinroo/)&nbsp;
 [![GitLab](https://mlohr.com/wp-content/uploads/2016/08/gitlab-150x150.png)](https://gitlab.com/robert.focke96)
 
 ### Key skills
