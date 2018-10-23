@@ -1,0 +1,176 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="favicon.ico">
+
+    <title>RF - Portfolio</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="static/css/bootstrap/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="static/css/carousel.css" rel="stylesheet">
+	
+	
+  </head>
+  <body>
+
+    <header>
+      <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+        <a class="navbar-brand" href="#">Robert Focke</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarCollapse">
+          <ul class="navbar-nav mr-auto">
+            <li class="nav-item">
+              <a class="nav-link" href="index.html">Home</a>
+            </li>
+            <li class="nav-item active">
+              <a class="nav-link" href="#">Curriculum Vitae  <span class="sr-only">(current)</span></a>
+            </li>
+          </ul>
+        </div>
+      </nav>
+    </header>
+
+    <main role="main">
+	
+	  <!-- The Modal -->
+	  <div class="container marketing">
+       <div class="modal fade" id="myModal">
+         <div class="modal-dialog">
+           <div class="modal-content">
+      
+             <!-- Modal Header -->
+             <div class="modal-header">
+               <h4 class="modal-title">Contact Me</h4>
+               <button type="button" class="close" data-dismiss="modal">×</button>
+             </div>
+        
+             <!-- Modal body -->
+             <div class="modal-body">
+              
+			   <div class="row">
+                <div class="col-md-6">
+                 <div class="form-group">
+                     <input id="form_name" type="text" name="name" class="form-control" placeholder="Firstname" required="required" data-error="Firstname is required.">
+                     <div class="help-block with-errors"></div>
+                 </div>
+                </div>
+                <div class="col-md-6">
+                 <div class="form-group">
+                     <input id="form_lastname" type="text" name="surname" class="form-control" placeholder="Lastname" required="required" data-error="Lastname is required.">
+                     <div class="help-block with-errors"></div>
+                 </div>
+                </div>
+               </div>
+               <div class="row">
+                <div class="col-md-6">
+                 <div class="form-group">
+                     <input id="form_email" type="email" name="email" class="form-control" placeholder="Email" required="required" data-error="Valid email is required.">
+                     <div class="help-block with-errors"></div>
+                 </div>
+                </div>
+               </div>
+               <div class="row">
+                <div class="col-md-12">
+                 <div class="form-group">
+                     <textarea id="form_message" name="message" class="form-control" placeholder="" rows="4" required="required" data-error="Please, leave us a message."></textarea>
+                     <div class="help-block with-errors"></div>
+                 </div>
+                </div>
+               <div class="col-md-12">
+                 <input id="sendEmail" type="submit" class="btn btn-success btn-send" value="Send">
+                </div>
+               </div>
+			  		  
+             </div>
+        
+           </div>
+         </div>
+       </div>
+	  </div>
+
+      <div id="myCarousel" class="carousel slide" data-ride="carousel">
+        <ol class="carousel-indicators">
+          <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+          <li data-target="#myCarousel" data-slide-to="1"></li>
+          <li data-target="#myCarousel" data-slide-to="2"></li>
+        </ol>
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <div class="container">
+              <div class="carousel-caption">
+                <h1>Creative solutions to difficult problems.</h1>
+                <p>Have a computer science problem that needs help solving?</p>
+                <p><a class="btn btn-lg btn-primary" href="#" role="button" data-toggle="modal" data-target="#myModal">Get in touch</a></p>
+              </div>
+            </div>
+          </div>
+          <div class="carousel-item">
+            <div class="container">
+              <div class="carousel-caption">
+                <h1>Making life easier, with code.</h1>
+                <p>Use modern technology to your benefit.</p>
+                <p><a class="btn btn-lg btn-primary" href="#" role="button" data-toggle="modal" data-target="#myModal">Reach out</a></p>
+              </div>
+            </div>
+          </div>
+          <div class="carousel-item">
+		    <div class="container">
+              <div class="carousel-caption">
+                <h1>Spreading the reach of good business.</h1>
+                <p>Advance your business interests with simple and elegant software.</p>
+                <p><a class="btn btn-lg btn-primary" href="#" role="button" data-toggle="modal" data-target="#myModal">Talk to me</a></p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <a class="carousel-control-prev" href="#myCarousel" role="button" data-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="sr-only">Previous</span>
+        </a>
+        <a class="carousel-control-next" href="#myCarousel" role="button" data-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="sr-only">Next</span>
+        </a>
+      </div>
+
+
+      <!-- Marketing messaging and featurettes
+      ================================================== -->
+      <!-- Wrap the rest of the page in another container to center all the content. -->
+
+      <div class="container marketing">
+
+        <div id="myCV">
+			<embed src="static/pdfs/cv.pdf" width="100%" height="500"> </embed>
+		</div>
+
+      </div> 
+
+      </div><!-- /.container -->
+
+
+      <!-- FOOTER -->
+      <footer class="container">
+        <p class="float-right"><a href="#">Back to top</a></p>
+        <p>&copy; 2017-2018 Robert Focke. &middot;</p>
+      </footer>
+    </main>
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script src="static/js/jquery.js"></script>
+    <script src="static/js/popper.min.js"></script>
+	<script src="static/js/main.js"></script>
+    <script src="static/js/bootstrap/bootstrap.min.js"></script>
+  </body>
+</html>
