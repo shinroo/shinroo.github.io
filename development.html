@@ -63,41 +63,53 @@
         
              <!-- Modal body -->
              <div class="modal-body">
-              
-			   <div class="row">
-                <div class="col-md-6">
-                 <div class="form-group">
-                     <input id="form_name" type="text" name="name" class="form-control" placeholder="Firstname" required="required" data-error="Firstname is required.">
-                     <div class="help-block with-errors"></div>
-                 </div>
-                </div>
-                <div class="col-md-6">
-                 <div class="form-group">
-                     <input id="form_lastname" type="text" name="surname" class="form-control" placeholder="Lastname" required="required" data-error="Lastname is required.">
-                     <div class="help-block with-errors"></div>
-                 </div>
-                </div>
-               </div>
-               <div class="row">
-                <div class="col-md-6">
-                 <div class="form-group">
-                     <input id="form_email" type="email" name="email" class="form-control" placeholder="Email" required="required" data-error="Valid email is required.">
-                     <div class="help-block with-errors"></div>
-                 </div>
-                </div>
-               </div>
-               <div class="row">
-                <div class="col-md-12">
-                 <div class="form-group">
-                     <textarea id="form_message" name="message" class="form-control" placeholder="" rows="4" required="required" data-error="Please, leave us a message."></textarea>
-                     <div class="help-block with-errors"></div>
-                 </div>
-                </div>
-               <div class="col-md-12">
-                 <input id="sendEmail" type="submit" class="btn btn-success btn-send" value="Send">
-                </div>
-               </div>
-			  		  
+            
+
+			   <form action="https://formspree.io/contact_robert_focke@mailinator.com" method="POST">
+
+				 <div class="row">
+				 
+				  <div class="col-sm-6">
+				   <div class="form-group">
+					<input type="text" name="name" id="form_name" class="form-control" placeholder="Name" required="required" data-error="Name is required.">
+                    <div class="help-block with-errors"></div>
+				   </div>
+				  </div>
+
+				  <div class="col-sm-6">
+				   <div class="form-group">
+					<input type="email" name="_replyto" id="form_email" class="form-control" placeholder="Email" required="required" data-error="Email is required.">
+                    <div class="help-block with-errors"></div>
+				   </div>
+				  </div>
+				  
+				 </div>
+
+				 <div class="row">
+				 
+				  <div class="col-sm-12">
+				   <div class="form-group">
+					<textarea id="form_message" name="message" class="form-control" placeholder="" rows="4" required="required" data-error="Please, leave us a message."></textarea>
+				   </div>
+				  </div>
+				  
+				 </div>
+				 
+				 <div class="row">
+				 
+				   <div class="col-sm-6">
+				    <div class="form-group">
+					 <input type="submit" value="Send" class="btn btn-success btn-send" id="sendEmail">
+				    </div>
+				   </div>
+				   
+				 </div>
+			   </form>
+				  
+				  
+				</div>
+			   </div>
+				
              </div>
         
            </div>
