@@ -1,0 +1,72 @@
+/* Make sure that padding behaves as expected */
+* {box-sizing:border-box}
+
+/* Container for skill bars */
+.skills-container {
+    width: 100%; /* Full width */
+    background-color: #fff; /* White background */
+	padding: 5px;
+}
+
+.skills {
+    text-align: right; /* Right-align text */
+    color: white; /* White text color */
+}
+
+
+/* Administration */
+
+.nginx {width: 90%; background-color: #7B68EE;} 
+.gunicorn {width: 80%; background-color: #7B68EE;} 
+.apache {width: 75%; background-color: #7B68EE;} 
+
+.boto3 {width: 90%; background-color: #9370DB;}
+.aws {width: 90%; background-color: #9370DB;}
+.cloudfoundry {width: 85%; background-color: #9370DB;}
+
+.bash {width: 90%; background-color: #BA55D3;}
+
+.docker {width: 80%; background-color: #DA70D6;}
+.bazel {width: 60%; background-color: #DA70D6;}
+.artifactory {width: 75%; background-color: #DA70D6;} 
+.laminar {width: 70%; background-color: #DA70D6;}
+
+.supervisor {width: 95%; background-color: 	#DDA0DD;}
+.pm2 {width: 75%; background-color:	#DDA0DD;}
+
+.git {width: 85%; background-color: #FFC0CB;}
+.subversion {width: 75%; background-color: #FFC0CB;}
+
+/* Development */
+
+.c {width: 75%; background-color: #d8ecf3;}
+.cplusplus {width: 80%; background-color: #d8ecf3;} 
+.java {width: 80%; background-color: #d8ecf3;}
+.python {width: 95%; background-color: #d8ecf3;}
+.haskell {width: 75%; background-color: #d8ecf3;}
+
+.ros {width: 70%; background-color: #87CEFA;}
+.ml {width: 70%; background-color: #87CEFA;}
+
+.vhdl {width: 65%; background-color: #00BFFF;}
+.mips {width: 80%; background-color: #00BFFF;}
+
+.sql {width: 85%; background-color: #1E90FF;}
+.nosql {width: 90%; background-color: #1E90FF;} 
+
+.flask {width: 90%; background-color: #0000CD;}
+.bootstrap {width: 75%; background-color: #0000CD;}
+
+/* Architecture */
+
+.monolithic {width: 85%; background-color: #90EE90;}
+.mvc {width: 80%; background-color: #90EE90;}
+.microservices {width: 90%; background-color: #90EE90;}
+.event-driven {width: 80%; background-color: #90EE90;}
+
+.requirements-engineering {width: 80%; background-color: #7CFC00;}
+.documentation {width: 90%; background-color: #7CFC00;}
+
+.embedded {width: 65%; background-color: #32CD32;}
+.desktop {width: 90%; background-color: #32CD32;}
+.webserver {width: 95%; background-color: #32CD32;}
