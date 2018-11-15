@@ -56,12 +56,28 @@ body {
   display:none !important;
 }
 
+.cv_full{
+   display:block !important;
+}
+
+.cv_mobile{
+  display:none !important;
+}
+
 @media (max-width: 640px) and (min-width: 320px){
   .image_full{
    display:none !important;
   }
 
   .image_mobile{
+   display:block !important;
+  }
+  
+  .cv_full{
+   display:none !important;
+  }
+
+  .cv_mobile{
    display:block !important;
   }
 }
