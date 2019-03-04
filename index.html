@@ -1,303 +1,114 @@
-<!doctype html>
-<html lang="en">
-  <head>
+<!DOCTYPE html>
+<html>
+<head>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
-    <meta name="author" content="">
-    <link rel="icon" href="favicon.ico">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Responsive Landing Page Template With Flexbox</title>
 
-    <title>RF - Portfolio</title>
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Quicksand" rel="stylesheet">
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="assets/css/styles.css">
 
-    <!-- Bootstrap core CSS -->
-    <link href="static/css/bootstrap/bootstrap.min.css" rel="stylesheet">
+</head>
 
-    <!-- Custom styles for this template -->
-    <link href="static/css/carousel.css" rel="stylesheet">
+<body>
+
+	<header>
+		<h2><a href="#">Portfolio</a></h2>
+		<nav>
+			<li><a href="#">Home</a></li>
+			<li><a href="#">Products</a></li>
+			<li><a href="#">About</a></li>
+			<li><a href="#">Contacts</a></li>
+		</nav>
+	</header>
+
+
+	<section class="hero">
+		<div class="background-image" style="background-image: url(assets/img/python.jpg);"></div>
+		<h1>Robert Focke</h1>
+		<h3>Software Developer</h3>
+		<a href="https://shinroo.github.io/static/pdfs/cv.pdf" class="btn">Curriculum Vitae</a>
+	</section>
+
+
+	<section class="our-work">
+		<h3 class="title">Portfolio</h3>
+		<p>Projects I have contributed to and companies I have worked for</p>
+		<hr>
+
+		<ul class="grid" id="projects-logos">
+			<li class="square" style="background-image: url(assets/img/friday_logo_fitted.png);"></li>
+			<li class="square" style="background-image: url(assets/img/clickwash-logo.jpeg);"></li>
+			<li class="square" style="background-image: url(assets/img/unmap_logo.jpg);"></li>
+			
+			<li class="square" style="background-image: url(assets/img/logo_sap.png);"></li>
+			<li class="square" style="background-image: url(assets/img/nrc.png);"></li>
+			<li class="rectangle" style="background-image: url(assets/img/hometogo.png);"></li>
+		</ul>
+	</section>
 	
-	
-  </head>
-  <body>
 
-    <header>
-      <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
-        <a class="navbar-brand" href="#">Robert Focke</a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarCollapse">
-          <ul class="navbar-nav mr-auto">
-            <li class="nav-item active">
-              <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="cv.html">Curriculum Vitae </a>
-            </li>
-			<li class="nav-item">
-              <a class="nav-link" href="architecture.html">Architecture </a>
-            </li>
-			<li class="nav-item">
-              <a class="nav-link" href="development.html">Development </a>
-            </li>
-			<li class="nav-item">
-              <a class="nav-link" href="administration.html">Administration </a>
-            </li>
-          </ul>
-        </div>
-      </nav>
-    </header>
+	<section class="features">
+		<h3 class="title">Skillset</h3>
+		<p>What I bring to the table</p>
+		<hr>
 
-    <main role="main">
-	
-	  <!-- The Modal -->
-	  <div class="container marketing">
-       <div class="modal fade" id="myModal">
-         <div class="modal-dialog">
-           <div class="modal-content">
-      
-             <!-- Modal Header -->
-             <div class="modal-header">
-               <h4 class="modal-title">Contact Me</h4>
-               <button type="button" class="close" data-dismiss="modal">×</button>
-             </div>
-        
-             <!-- Modal body -->
-             <div class="modal-body">
-			   <form action="https://jumprock.co/mail/shinroo" method="post">
-
-				 <div class="row">
-				 
-				  <div class="col-sm-6">
-				   <div class="form-group">
-					<input type="text" name="name" id="form_name" class="form-control" placeholder="Name" required="required" data-error="Name is required.">
-                    <div class="help-block with-errors"></div>
-				   </div>
-				  </div>
-
-				  <div class="col-sm-6">
-				   <div class="form-group">
-					<input type="email" name="email" id="form_email" class="form-control" placeholder="Email" required="required" data-error="Email is required.">
-                    <div class="help-block with-errors"></div>
-				   </div>
-				  </div>
-				  
-				 </div>
-
-				 <div class="row">
-				 
-				  <div class="col-sm-12">
-				   <div class="form-group">
-					<textarea id="form_message" name="message" class="form-control" placeholder="" rows="4" required="required" data-error="Please, leave us a message."></textarea>
-				   </div>
-				  </div>
-				  
-				 </div>
-				 
-				 <div class="row">
-				 
-				   <div class="col-sm-6">
-				    <div class="form-group">
-					 <input type="submit" value="Send" class="btn btn-success btn-send" id="sendEmail">
-				    </div>
-				   </div>
-				   
-				 </div>
-			   </form>
-				  
-				  
-				</div>
-        
-           </div>
-         </div>
-       </div>
-	  </div>
-
-	  <!-- Carousel -->
-	  <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
-	  
-	    <!-- Carousel contents -->
-        <div class="carousel-inner">
-            <div class="carousel-item active">
-               <img class="d-block w-100 carousel-background-image image_full" src="static/img/carousel.jpg" alt="">
-			   <img class="d-block w-100 carousel-background-image image_mobile" src="static/img/carousel-mobile.jpg" alt="">
-			   <div class="carousel-caption">
-                <h1 class="carousel-text">Making life easier, with code.</h1>
-                <p class="carousel-text">Use modern technology to your benefit.</p>
-                <p><a class="btn btn-lg btn-primary" href="#" role="button" data-toggle="modal" data-target="#myModal">Reach out</a></p>
-              </div>
-            </div>
-            <div class="carousel-item">
-               <img class="d-block w-100 carousel-background-image image_full" src="static/img/carousel.jpg" alt="">
-			   <img class="d-block w-100 carousel-background-image image_mobile" src="static/img/carousel-mobile.jpg" alt="">
-			   <div class="carousel-caption">
-                <h1 class="carousel-text">Creative solutions to difficult problems.</h1>
-                <p class="carousel-text">Have a computer science problem that needs help solving?</p>
-                <p><a class="btn btn-lg btn-primary" href="#" role="button" data-toggle="modal" data-target="#myModal">Get in touch</a></p>
-               </div>
-            </div>
-            <div class="carousel-item">
-               <img class="d-block w-100 carousel-background-image image_full" src="static/img/carousel.jpg" alt="">
-			   <img class="d-block w-100 carousel-background-image image_mobile" src="static/img/carousel-mobile.jpg" alt="">
-			   <div class="carousel-caption">
-                <h1 class="carousel-text">Spreading the reach of good business.</h1>
-                <p class="carousel-text">Advance your business interests with simple and elegant software.</p>
-                <p><a class="btn btn-lg btn-primary" href="#" role="button" data-toggle="modal" data-target="#myModal">Talk to me</a></p>
-              </div>
-            </div>
-        </div>
-		<!-- End carousel contents -->
-		
-		<!-- Carousel controls -->
-        <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
-           <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-           <span class="sr-only">Previous</span>
-        </a>
-        <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
-           <span class="carousel-control-next-icon" aria-hidden="true"></span>
-           <span class="sr-only">Next</span>
-        </a>
-		<!-- End carousel controls -->
-		
-      </div>
-	  <!-- End carousel -->
-
-      <!-- Marketing messaging and featurettes
-      ================================================== -->
-      <!-- Wrap the rest of the page in another container to center all the content. -->
-
-      <div class="container marketing">
-
-        <!-- Three columns of text below the carousel -->
-        <div class="row">
-          <div class="col-lg-4">
-            <a href="architecture.html"><img class="rounded-circle" src="static/img/architecture.jpg" alt="Generic placeholder image" width="140" height="140"></a>
-            <h2>Architecture</h2>
-            <p>Let me design your software, I'll find the optimal way to serve your need.</p>
-          </div><!-- /.col-lg-4 -->
-          <div class="col-lg-4">
-            <a href="development.html"><img class="rounded-circle" src="static/img/development.jpg" alt="Generic placeholder image" width="140" height="140"></a>
-            <h2>Development</h2>
-            <p>Allow me to implement your vision in efficient and elegant code.</p>
-          </div><!-- /.col-lg-4 -->
-          <div class="col-lg-4">
-            <a href="administration.html"><img class="rounded-circle" src="static/img/admin.jpg" alt="Generic placeholder image" width="140" height="140"></a>
-            <h2>Administration</h2>
-            <p>Once your goal has been reached, I can keep it running smoothly whether locally or on the cloud.</p>
-          </div><!-- /.col-lg-4 -->
-        </div><!-- /.row -->
-
-	  </div>
-		
-      <div id="education" class="container marketing">
-
-        <!-- START THE FEATURETTES -->
-
-        <hr class="featurette-divider">
-
-		<!-- FRIDAYSUITE BEGIN -->
-		
-        <div class="row featurette">
-          <div class="col-md-7">
-            <h2 class="featurette-heading">Fridaysuite <br><span class="text-muted">Business Operations </span></h2>
-			<p class="lead">2015 - 2018</p>
-            <p class="lead">Microservices-based webapp built from the ground up to facilitate the operations of small-medium sized manufacturing firms</p>
-          </div>
-          <div class="col-md-5">
-            <a href="https://dev.fridaysuite.com"><img class="featurette-image img-fluid mx-auto" src="static/img/friday_logo_fitted.png" alt="Generic placeholder image"></a>
-          </div>
-        </div>
-		
-		<!-- FRIDAYSUITE END -->
-
-        <hr class="featurette-divider">
-
-		<!-- SIMPLY.ML BEGIN -->
-		
-        <div class="row featurette">
-          <div class="col-md-7 order-md-2">
-            <h2 class="featurette-heading">Simply.ml<br><span class="text-muted">Machine Learning Dataset Classification</span></h2>
-			<p class="lead">ETA 2019</p>
-            <p class="lead">Web & mobile-web application to allow for the classification of ML datasets</p>
-          </div>
-          <div class="col-md-5 order-md-1">
-            <a href="https://shinroo.github.io/simply.ml/index.html"><img class="featurette-image img-fluid mx-auto" src="static/img/simply.ml.jpg" alt="Generic placeholder image"></a>
-          </div>
-        </div>
-		
-		<!-- SIMPLY.ML END -->
-
-        <hr class="featurette-divider">
-		
-		<!-- UNMAP BEGIN -->
-		
-		<div class="row featurette">
-          <div class="col-md-7">
-            <h2 class="featurette-heading">Unmap <br><span class="text-muted">Feature-based POI Search </span></h2>
-			<p class="lead">ETA 2019</p>
-            <p class="lead">Web & mobile-web app designed to enable the discovery of locations based on features, using natural language processing to identify user intent (using hashtags as an interface)</p>
-          </div>
-          <div class="col-md-5">
-            <a href="https://shinroo.github.io/unmap/index.html"><img class="featurette-image img-fluid mx-auto" src="static/img/unmap_logo.jpg" alt="Generic placeholder image"></a>
-          </div>
-        </div>
-		
-		<!-- UNMAP END -->
-
-        <hr class="featurette-divider">
-		
-		<!-- CLICKWASH BEGIN -->
-		
-		 <div class="row featurette">
-          <div class="col-md-7 order-md-2">
-            <h2 class="featurette-heading">ClickWash<br><span class="text-muted">Distributed Economy Car Washing</span></h2>
-			<p class="lead">ETA 2019</p>
-            <p class="lead">Web & mobile-web application combining distributed economic principles and car washing. Route finding using computer vision algorithms</p>
-          </div>
-          <div class="col-md-5 order-md-1">
-            <a href="https://clickwash.de"><img class="featurette-image img-fluid mx-auto" src="static/img/clickwash-logo.jpeg" alt="Generic placeholder image"></a>
-          </div>
-        </div>
-		
-		<!-- CLICKWASH END -->
-
-        <hr class="featurette-divider">
-<!--
-        <div class="row featurette">
-          <div class="col-md-7">
-            <h2 class="featurette-heading">Pretoria Boys High School <br><span class="text-muted">Secondary School</span></h2>
-			<p class="lead">2010 - 2014</p>
-            <p class="lead">Secondary school, graduated with subject prize in information technology</p>
-          </div>
-          <div class="col-md-5">
-            <img class="featurette-image img-fluid mx-auto" src="static/img/pbhs_logo.png" alt="Generic placeholder image">
-          </div>
-        </div>
-
-        <hr class="featurette-divider">
-
--->
-		
-        <!-- /END THE FEATURETTES -->
-
-      </div> 
-
-      </div><!-- /.container -->
+		<ul class="grid">
+			<li>
+				<i class="fa fa-terminal"></i>
+				<h4>Administration</h4>
+				<ul>
+					<li>On-Site and Cloud Servers</li>
+					<li>Relational & NoSQL Databases</li>
+					<li>Deployment</li>
+					<li>Testing</li>
+					<li>Logging & Monitoring</li>
+				</ul>
+			</li>
+			<li>
+				<i class="fa fa-code"></i>
+				<h4>Development</h4>
+				<ul>
+					<li>Python, C++, JavaScript</li>
+					<li>Test-Driven Development</li>
+					<li>Clean, Maintainable Code</li>
+					<li>SQL, MongoDB</li>
+					<li>Django, Flask, Node.js</li>
+				</ul>
+			</li>
+			<li>
+				<i class="fa fa-code-fork"></i>
+				<h4>Architecture</h4>
+				<ul>
+					<li>Modular Development</li>
+					<li>Leveraging High Quality Open Source Solutions</li>
+					<li>Best Practices</li>
+				</ul>
+			</li>
+		</div>
+	</section>
 
 
-      <!-- FOOTER -->
-      <footer class="container">
-        <p class="float-right"><a href="#">Back to top</a></p>
-        <p>&copy; 2017-2018 Robert Focke. &middot;</p>
-      </footer>
-    </main>
+	<section class="contact">
+		<h3 class="title">Contact Me</h3>	
+		<p>Reach out to me on Github or Linkedin or send me an email.</p>
+		<hr>
 
-    <!-- Bootstrap core JavaScript
-    ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
-    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
-    <script src="static/js/jquery.js"></script>
-    <script src="static/js/popper.min.js"></script>
-	<script src="static/js/main.js"></script>
-    <script src="static/js/bootstrap/bootstrap.min.js"></script>
-  </body>
+		<form>
+			<a href="mailto:robert.focke@member.fsf.org" class="btn">Email me</a>
+		</form>
+	</section>
+
+	<footer>
+		<ul>
+			<li><a href="https://www.linkedin.com/in/robertfocke/"><i class="fa fa-linkedin-square"></i></a></li>
+			<li><a href="https://github.com/shinroo"><i class="fa fa-github-square""></i></a></li>
+		</ul>
+	</footer>
+
+</body>
+
 </html>
