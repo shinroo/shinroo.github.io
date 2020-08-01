@@ -78,6 +78,14 @@ section h3.title{
 	text-align: center;
 }
 
+section .showcase-gap {
+	padding-bottom: 5px;
+}
+
+section .showcase-light {
+	color: grey;
+}
+
 section p{
 	max-width: 800px;
 	text-align: center;
@@ -242,10 +250,12 @@ header nav li:last-child{
 
 .our-work .grid li.square{
 	width: 210px;
+	margin: 10px;
 }
 
 .our-work .grid li.rectangle{
-	width: 400px;
+	width: 350px;
+	margin: 10px;
 }
 
 
@@ -317,7 +327,7 @@ header nav li:last-child{
 ---------------------*/
 
 .contact{
-	background-color: #fff;
+	background-color:#f7f7f7;
 }
 
 .contact form{

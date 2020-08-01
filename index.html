@@ -19,6 +19,7 @@
 		<nav>
 			<li><a href="#portfolio">Portfolio</a></li>
 			<li><a href="#skillset">Skillset</a></li>
+			<li><a href="#cases">Case Studies</a></li>
 			<li><a href="#contact">Contact</a></li>
 		</nav>
 	</header>
@@ -39,13 +40,9 @@
 
 		<ul class="grid" id="projects-logos">
 
-			<li class="rectangle" style="background-image: url(assets/img/dimr_logo.jpg);"></li>
-			<li class="square" style="background-image: url(assets/img/friday_logo_fitted.png);"></li>
-			<li class="square" style="background-image: url(assets/img/clickwash-logo.jpeg);"></li>
-			<li class="square" style="background-image: url(assets/img/unmap_logo.jpg);"></li>
-
 			<li class="square" style="background-image: url(assets/img/hikaya.png);"></li>
-			<li class="square" style="background-image: url(assets/img/logo_sap.png);"></li>
+			<li class="rectangle" style="background-image: url(assets/img/dimr_logo.jpg);"></li>
+			<li class="rectangle" style="background-image: url(assets/img/logo_sap.svg);"></li>
 			<li class="square" style="background-image: url(assets/img/nrc.png);"></li>
 			<li class="rectangle" style="background-image: url(assets/img/hometogo.png);"></li>
 
@@ -53,7 +50,7 @@
 	</section>
 
 
-	<section id="contact" class="features">
+	<section id="skillset" class="features">
 		<h3 class="title">Skillset</h3>
 		<p>What I bring to the table</p>
 		<hr>
@@ -61,8 +58,9 @@
 		<ul class="grid">
 			<li>
 				<i class="fa fa-terminal"></i>
-				<h4>Administration</h4>
+				<h4>Operations</h4>
 				<ul>
+					<li>Kubernetes</li>
 					<li>On-Site and Cloud Servers</li>
 					<li>Relational & NoSQL Databases</li>
 					<li>Deployment</li>
@@ -77,8 +75,9 @@
 					<li>Python, C++, JavaScript</li>
 					<li>Test-Driven Development</li>
 					<li>Clean, Maintainable Code</li>
-					<li>SQL, MongoDB</li>
-					<li>Django, Flask, Node.js</li>
+					<li>MySQL, PostgresSQL, MongoDB</li>
+					<li>Angular, Flask, Node.js</li>
+					<li>Airflow, NiFi, Metabase</li>
 				</ul>
 			</li>
 			<li>
@@ -93,8 +92,54 @@
 		</div>
 	</section>
 
+	<section id="cases" class="our-work">
+		<h3 class="title">Case Studies</h3>
+		<p>Selected tasks I have worked on during my career</p>
+		<hr>
 
-	<section class="contact">
+		<h4 class="showcase-gap title">Setting up Google Analytics + Raspberry Pi Dashboard</h4>
+		<h5 class="showcase-gap showcase-light ">System Administrator (Working Student) at HomeToGo in 2016</h5>
+
+		<p>At my first ever job, I helped the marketing department of HomeToGo set up a custom dashboard which accessed Google Analytics data via a bash script on a Raspberry Pi. This was then connected to a large monitor in the marketing department's area. </p>
+
+		<hr>
+
+		<h4 class="showcase-gap title">SAP Leonardo ML - Google Cloud Platform integrations</h4>
+		<h5 class="showcase-gap showcase-light ">Software Engineer (Working Student) at SAP Innovation Centre in 2017</h5>
+
+		<p>My first professional software engineering task was working on a backend proxy service which would expose functionality from Google's cloud speech processiong APIs within SAP's Leonardo Machine Learning platform.</p>
+		<p>I wrote the service in Python 3 using the Flask framework. This was deployed to an internal Cloud Foundry instance. The Flask application served a simple page which allowed the user to record their voice and have it be transcribed for them.</p>
+		<p>This project was used by team management as part of the evaluation phase of a Google - SAP partnership, as described <a href="https://techcrunch.com/2017/03/08/google-announces-significant-partnership-with-sap-at-google-cloud-next-conference/?guccounter=1">here</a>.</p>
+	
+		<hr>
+
+		<h4 class="showcase-gap title">I8n and UX improvement of CLI tool</h4>
+		<h5 class="showcase-gap showcase-light ">Knowledge Manager (Working Student) at SAP Innovation Centre in 2018</h5>
+
+		<p>Worked with UX specialist colleague to refactor SAP Leonardo ML CLI tool's build process to pull text sources (for labels and descriptions) from a single source. We did this by writing a python script to generate Golang CLI definitions (replacing static definitions) based on a JSON structure containing the text snippets.</p>
+		<p>This improved the workflow for Knowledge Management staff responsible for in-application documentation and internationalisation by centralising the texts in one place and separating the concerns from the actual code.</p>
+
+		<hr>
+
+		<h4 class="showcase-gap title">Development of NRC Core Web Application</h4>
+		<h5 class="showcase-gap showcase-light ">Software Engineer at Norwegian Refugee Council Digitalisation Team from 2019 to present</h5>
+
+		<p>Currently working on an internal web application for use by frontline aid workers manage interactions with refugees and internally displaced people.</p>
+		<p>I work across NRCs stack on this application from data modelling in Directus (an open source headless CMS), writing Angular code for the frontend and writing integration tests (especially to ensure the custom security implementations for segregated visibility and access work as intended). I am also involved in the hosting of the application on Kubernetes (Azure-based).</p>
+
+		<hr>
+
+		<h4 class="showcase-gap title">Web Scraping & Visualisation Project</h4>
+		<h5 class="showcase-gap showcase-light ">Data Engineer at Deutsches Institut für Menschenrechte in 2020</h5>
+
+		<p>I set up a data project end to end, including writing web scrapers (for bespoke websites and social media), performing NLP tasks (lemmatization, tokenization) and using an open source data visualisation tool to create dashboards (Metabase).</p>
+		<p>Since the data would be searched by researchers I installed the PG_TRIGRAM PostgresSQL addon to be able to index text columns more efficiently thus speeding up the search.</p>
+		<p>The project is hosted on Digital Ocean's Kubernetes service.</p>
+		
+	</section>
+
+
+	<section id="contact" class="contact">
 		<h3 class="title">Contact Me</h3>
 		<p>Reach out to me on Github or Linkedin or send me an email.</p>
 		<hr>
