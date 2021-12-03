@@ -258,6 +258,10 @@ header nav li:last-child{
 	margin: 10px;
 }
 
+div.rectangle {
+	width: 350px;
+	margin: 10px;
+}
 
 @media (max-width: 1000px){
 
@@ -327,7 +331,7 @@ header nav li:last-child{
 ---------------------*/
 
 .contact{
-	background-color:#f7f7f7;
+	background-color:#fff;
 }
 
 .contact form{
