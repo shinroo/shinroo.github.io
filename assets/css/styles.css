@@ -326,7 +326,7 @@ header nav li:last-child{
 ---------------------*/
 
 .contact{
-	background-color:#fff;
+	background-color:#f7f7f7;
 }
 
 .contact form{
@@ -361,8 +361,13 @@ header nav li:last-child{
 
 }
 
+/*-------------
+ 	Talks
+-------------*/
 
-
+.talk {
+	max-width: 560px;
+}
 
 /*-------------
  	Footer
