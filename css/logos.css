@@ -1,0 +1,41 @@
+/*-------------
+ 	Logos
+-------------*/
+
+#logo-hikaya {
+	background-image: url(../assets/img/hikaya-logo.svg);
+}
+
+#logo-dimr {
+	background-image: url(../assets/img/dimr_logo.jpg);
+}
+
+#logo-hometogo {
+	background-image: url(../assets/img/hometogo-square-white.webp);
+}
+
+#logo-sap-icn {
+	background-image: url(../assets/img/sap-icn.png);
+}
+
+#logo-mesg-ai {
+	background-image: url(../assets/img/mesg_ai.svg);
+}
+
+#logo-nrc {
+	background-image: url(../assets/img/nrc.png);
+}
+
+#logo-muzz {
+	background-image: url(../assets/img/muzz.png);
+}
+
+#logo-zula {
+	background-image: url(../assets/img/zula.png);
+}
+
+#logo-friday {
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-image: url(../assets/img/friday_logo_fitted.png);
+}

@@ -1,0 +1,41 @@
+/*--------------------
+ 	Our Work
+---------------------*/
+
+.оur-work {
+	background-color: #fff;
+}
+
+.our-work .grid li {
+	padding: 20px;
+	height: 200px;
+	border-radius: 10px;
+
+	background-size: 100% 100%;
+	background-position: center;
+	background-color: #fff;
+}
+
+.our-work .grid li.square {
+	width: 210px;
+	margin: 10px;
+}
+
+.our-work .grid li.rectangle {
+	width: 350px;
+	margin: 10px;
+}
+
+@media (max-width: 1000px) {
+
+	.our-work .grid li.small,
+	.our-work .grid li.large {
+		flex-basis: 100%;
+	}
+
+}
+
+.our-work-logo {
+	mix-blend-mode: multiply;
+	background-color: #fff;
+}
