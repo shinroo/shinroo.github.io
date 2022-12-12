@@ -24,6 +24,11 @@
 	margin-bottom: 25px;
 }
 
+.features-logo {
+	mix-blend-mode: multiply;
+	background-color: #555;
+}
+
 .features .grid li p {
 	margin: 0;
 }
