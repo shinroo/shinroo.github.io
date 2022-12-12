@@ -39,3 +39,15 @@
 	background-repeat: no-repeat;
 	background-image: url(../assets/img/friday_logo_fitted.png);
 }
+
+#logo-bundesministerium-des-innern {
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-image: url(../assets/img/bmi.svg);
+}
+
+#logo-house-of-resources {
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-image: url(../assets/img/hor.png);
+}
