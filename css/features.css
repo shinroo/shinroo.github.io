@@ -53,3 +53,8 @@
 	}
 
 }
+
+.features-logo {
+	mix-blend-mode: multiply;
+	background-color: #f7f7f7;
+}
